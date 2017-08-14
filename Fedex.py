@@ -1,3 +1,6 @@
+#Help taken from the bbelow link
+#https://stackoverflow.com/questions/18817185/parsing-html-does-not-output-desired-datatracking-info-for-fedex
+
 import requests
 import json
 
